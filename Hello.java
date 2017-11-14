@@ -3,3 +3,12 @@ public class Git{
 		//todo
 	}
 }
+
+class Inner{
+
+public void test(){
+
+}
+}
+
+

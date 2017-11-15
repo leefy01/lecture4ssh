@@ -8,6 +8,7 @@ class Inner{
 
 public void test(){
    //todo
+    sout("conflict");
 }
 }
 

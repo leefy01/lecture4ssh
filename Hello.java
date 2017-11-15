@@ -7,7 +7,7 @@ public class Git{
 class Inner{
 
 public void test(){
-
+    sout("conflict");
 }
 }
 

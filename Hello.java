@@ -21,4 +21,4 @@ public void test(){
 }
 }
 
-//git config --global alias.am '.....'
+//git config --global alias.acm '.....'

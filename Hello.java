@@ -4,6 +4,10 @@ public class Git{
 	}
 	public String toString(){
 
+        }
+
+	public void saySometg(){
+
 	}
 }
 
@@ -14,5 +18,4 @@ public void test(){
     sout("conflict");
 }
 }
-
 

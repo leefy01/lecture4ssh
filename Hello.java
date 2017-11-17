@@ -2,6 +2,9 @@ public class Git{
 	public static void main(String []args){
 		//todo
 	}
+	public String toString(){
+
+	}
 }
 
 class Inner{
